@@ -17,8 +17,7 @@ Com isso você irá ter disponível todo o material do curso.
 
 # Programa número 2 - Docker
 
-Windows 10 Professional ou enterprise - Vá até a página de download - https://www.docker.com/docker-windows e clique em download.
-
-Outras versões de windows - Vá até a pagina de download - https://download.docker.com/win/stable/DockerToolbox.exe e clique em download.
+Vá até a pagina de download - https://download.docker.com/win/stable/DockerToolbox.exe e clique em download.
 
 Inicie o processo de instalação (O processo pode demorar um pouco).
+Clique no botão iniciar, todos os programas, Docker e clique em Docker quickstart terminal. O programa irá iniciar sua configuração e irá requerer que você dê permissões a ele, dê estas permissões e espere o processo terminar.
