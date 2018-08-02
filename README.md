@@ -21,3 +21,7 @@ Vá até a pagina de download - https://download.docker.com/win/stable/DockerToo
 
 Inicie o processo de instalação (O processo pode demorar um pouco).
 Clique no botão iniciar, todos os programas, Docker e clique em Docker quickstart terminal. O programa irá iniciar sua configuração e irá requerer que você dê permissões a ele, dê estas permissões e espere o processo terminar.
+
+Terminado o processo, digite o comando no terminal docker - docker pull bgabriel/workshop
+
+Espere o download terminar e estaremos prontos para a aula :-)
