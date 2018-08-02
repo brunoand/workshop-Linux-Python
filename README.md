@@ -19,6 +19,6 @@ Com isso você irá ter disponível todo o material do curso.
 
 Windows 10 Professional ou enterprise - Vá até a página de download - https://www.docker.com/docker-windows e clique em download.
 
-Demais windows - Vá até a pagina de download - https://download.docker.com/win/stable/DockerToolbox.exe e clique em download.
+Outras versões de windows - Vá até a pagina de download - https://download.docker.com/win/stable/DockerToolbox.exe e clique em download.
 
-Inicie o processo de instalação (Ele pode demorar um pouco).
+Inicie o processo de instalação (O processo pode demorar um pouco).
