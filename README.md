@@ -38,3 +38,13 @@ Neste curso nós iremos aprender os seguintes pontos:
 
 Será necessário a instalação de alguns programas em seu laptop, por favor siga os tutoriais para a instalação da [máquina virtual](https://github.com/brunoand/workshop-Linux-Python/wiki/Instala%C3%A7%C3%A3o-da-m%C3%A1quina-virtual) e os [pacotes de Python3](https://github.com/brunoand/workshop-Linux-Python/wiki/Instala%C3%A7%C3%A3o-de-Python-3-e-pacotes-necess%C3%A1rios!).
 
+## Material de apoio
+
+### Linux
+
+Um [curso](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) gratuito construído pela fundação linux está disponível na plataforma EDX. 
+
+### Python
+
+Os livros [Think Python 2](http://greenteapress.com/wp/think-python-2e/) e [Think Stats 2](http://greenteapress.com/wp/think-stats-2e/) são materiais ótimos para se dominar a linguagem Python e seu poder analítico!!!
+
