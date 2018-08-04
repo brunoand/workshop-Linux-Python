@@ -44,6 +44,8 @@ Será necessário a instalação de alguns programas em seu laptop, por favor si
 
 Um [curso](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) gratuito construído pela fundação linux está disponível na plataforma EDX. 
 
+Um [infográfico](https://github.com/brunoand/workshop-Linux-Python/blob/master/Linux/Utilidades/Linux-Command-Line-Guide%20.png) com quase todos os comandos utilizados no terminal está disponível neste curso.
+
 ### Python
 
 Os livros [Think Python 2](http://greenteapress.com/wp/think-python-2e/) e [Think Stats 2](http://greenteapress.com/wp/think-stats-2e/) são materiais ótimos para se dominar a linguagem Python e seu poder analítico!!!
