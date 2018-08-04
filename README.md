@@ -1,21 +1,40 @@
 # Workshop Linux-Python
-Material do workshop Linux-Python
 
+## Bem vindos a primeira versão do curso de curta duração sobre Linux e Python
 
-# Preparação para o curso
+Este curso foi concebido para transmitir conhecimentos basicos acerca desse sistema operacional e dessa linguagem de programação, assim como a utilização dela para análise de dados, para alunos e pesquisadores com pouca ou nenhuma experiência com eles. O curso será condensado e intenso, mas todas as informações e materiais de apoio serão liberados antes do mesmo (E irei sempre atualizar esta página, então fiquem de olho.)
 
-Para evitar contratempos como quedas de internet ou de servidores, cada estudante deverá trazer um laptop próprio com dois programas específicos instalados. Iremos ocupar 3 Gb de espaço.
+Neste curso nós iremos aprender os seguintes pontos:
 
-# Virtual Box
+### Linux
 
-Iremos criar uma máquina virtual com o linux Ubuntu dentro do windows (Isto se o seu laptop já não tiver o Ubuntu ou outra distribuição linux instalada).
+- História
+- Filosofia do software livre
+- Vantagens e desvantagens
+- Distribuições
+- Como utilizar o terminal
 
-Para instalar o Virtual box e criar a máquina virtual, por favor, siga este ótimo tutorial - https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/04/como-instalar-o-ubuntu-com-o-virtualbox.html
+### Python
 
-Endereço para o download da imagem do linux - https://www.ubuntu.com/download/desktop
+- Introdução ao Python
+- Sintaxe
+- Variáveis
+- Tipos de dados
+- Operações numéricas
+- Strings
+- Operações com strings
+- Listas
+- Tuples
+- Dicionários
+- Tomada de decisão
+- Loops
+- Funções
+- Módulos
+- Pandas
+- Dataframes com Pandas
+- Visualização de dados
 
-# Instalação de Python 3 e pacotes
+## Preparação para o curso
 
-Após clicar em iniciar, no fim do tutorial da instalação do Virtual Box
+Será necessário a instalação de alguns programas em seu laptop, por favor siga os tutoriais para a instalação da [máquina virtual](https://github.com/brunoand/workshop-Linux-Python/wiki/Instala%C3%A7%C3%A3o-da-m%C3%A1quina-virtual) e os [pacotes de Python3](https://github.com/brunoand/workshop-Linux-Python/wiki/Instala%C3%A7%C3%A3o-de-Python-3-e-pacotes-necess%C3%A1rios!).
 
-Espere o download terminar e estaremos prontos para a aula :-)
